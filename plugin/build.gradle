@@ -1,4 +1,4 @@
-group 'deveiki.net'
+group 'deveiki.net.plugin'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'groovy'
