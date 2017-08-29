@@ -1,1 +1,1 @@
-## 文章内容参见:[用IDEA开发Gradle插件]()
+## 文章内容参见:[使用IDEA开发Gradle插件(一) - DevWiki](http://blog.devwiki.net/index.php/2017/08/28/develop-gradle-plugin-use-idea-1.html)
