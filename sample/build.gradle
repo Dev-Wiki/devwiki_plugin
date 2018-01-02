@@ -2,7 +2,8 @@ group 'devwiki.net.sample'
 version '1.0'
 
 apply plugin: 'java'
-apply plugin: 'DevWikiPlugin'
+apply plugin: 'net.devwiki.plugin.java'
+apply plugin: 'net.devwiki.plugin.groovy'
 
 sourceCompatibility = 1.8
 
